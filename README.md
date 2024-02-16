@@ -1,10 +1,13 @@
-# Halo semua! 
+👤Maman Saputra, a millenial researcher from Tanjung, Indonesia.
 
-Perkenalkan nama saya **Maman Saputra**.<br>
+🔍Dedicated to unraveling the nexus of health and economics, Maman Saputra exemplifies profound expertise in research, data analysis, project management, and scientific writing. Maman's professional footprint spans impactful roles in academic administration, peer mentoring, and organizational capacity building. Aspires to drive social impact through skillful interpretation of health data and strategic project leadership in the field of public health.
 
-Saya salah satu peserta program **Bangkit Academy** di [Bangkit](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).<br>
+🎓Graduated from Master of Public Health (Health Economic) and Double Degree on Bachelor of Public Health and Islamic Economic. Now, I'm working on research consulting company with social behavior change expertise.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mamansaputra/)ku ya.
+📚Professional skill:
+Public Health Education | Research (quantitative and qualitative methods), systematic review and meta analysis, secondary data | Data analysis and visualization
+
+📱 LinkedIn: linkedin.com/in/mamansaputra
 
 
 <p align="left">
